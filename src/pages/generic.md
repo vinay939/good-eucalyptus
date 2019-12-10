@@ -10,10 +10,6 @@ home_spotlights:
     2)Market Risk
 
     3)Team Risk
-
-    4)Regulation and legal uncertainties
-
-    5)Financial risk
 menus:
   main:
     title: Generic
