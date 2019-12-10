@@ -29,10 +29,13 @@ sections:
     background_style: style1
     component: Intro
     section_id: intro
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
-    title: Hyperspace
+    subtitle: >-
+      "To inspire people to travel around the world in an affordable way beyond
+      their expectations".
+
+
+      ![](/images/easy-1.jpg)
+    title: EASY TRAVELS
     type: intro
   - background_style: style2
     component: Spotlights
