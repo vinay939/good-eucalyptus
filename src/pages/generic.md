@@ -6,7 +6,7 @@ home_spotlights:
   excerpt: ''
 menus:
   main:
-    title: Generic
+    title: ''
     weight: 2
 template: page
 ---
