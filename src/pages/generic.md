@@ -2,6 +2,7 @@
 title: Risk
 content_img_path: images/pic04.jpg
 home_spotlights:
+  enabled: true
   excerpt: |-
     The major risks for your venture would be
 
