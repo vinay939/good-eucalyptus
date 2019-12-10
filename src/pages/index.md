@@ -22,7 +22,7 @@ sections:
         url: '#one'
     background_style: style1
     component: Intro
-    section_id: intro
+    section_id: Finances
     subtitle: '![](/images/easy-1.jpg)'
     title: EASY TRAVEL
     type: intro
