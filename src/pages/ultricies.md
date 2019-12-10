@@ -1,12 +1,12 @@
 ---
 title: Strategies
-content_img_path: /images/easy-6.jpeg
+content_img_path: /images/easy-5.jpeg
 home_spotlights:
   enabled: true
   excerpt: Our venture strategic would be "LOW-COST"
   home_img:
     data_position: 25% 25%
-    path: /images/easy-5.jpeg
+    path: /images/easy-6.jpeg
     url: '#'
   weight: 3
 template: page
