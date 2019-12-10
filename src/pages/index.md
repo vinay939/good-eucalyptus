@@ -46,15 +46,12 @@ sections:
   - background_style: style1
     component: Contact
     contact_list:
-      - text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
+      - text: '199, southpaw Street, Sault Ste Marie, Ontario, Canda'
         title: Address
-      - text: user@Hyperspace.tld
+      - text: vinayvinu9716@gmail.com
         title: Email
         url: '#'
-      - text: (000) 000-0000
+      - text: 705-989-9006
         title: Phone
     section_id: three
     social:
