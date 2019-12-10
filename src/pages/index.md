@@ -30,10 +30,10 @@ sections:
     component: Intro
     section_id: intro
     subtitle: |-
-
+      # 
 
       ![](/images/easy-1.jpg "EASY TRAVEL")
-    title: EASY TRAVEL
+    title: '  EASY TRAVEL'
     type: intro
   - background_style: style2
     component: Spotlights
