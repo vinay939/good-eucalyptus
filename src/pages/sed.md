@@ -19,7 +19,7 @@ home_spotlights:
     3)Team Risk
   home_img:
     data_position: center center
-    path: ''
+    path: /images/pic02.jpg
     url: '#'
   weight: 1
 template: page
