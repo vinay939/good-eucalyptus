@@ -1,5 +1,5 @@
 ---
-title: Strategies
+title: STRATEGIES
 content_img_path: /images/easy-5.jpeg
 home_spotlights:
   enabled: true
