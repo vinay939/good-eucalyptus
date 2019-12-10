@@ -71,7 +71,7 @@ sections:
         title: Aliquam urna dapibus
     section_id: two
     subtitle: ''
-    title: intro
+    title: finances
     type: features
   - background_style: style1
     component: Contact
