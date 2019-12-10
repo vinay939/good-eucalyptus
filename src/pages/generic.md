@@ -1,9 +1,11 @@
 ---
 title: Marketing
-content_img_path: images/pic04.jpg
+content_img_path: /images/easy-7.jpeg
 home_spotlights:
   enabled: true
   excerpt: "Our venture would reach out to our customer using different social media platforms, We would\rposts stuff which would show all the services we would offer to the customer, we would launch\rcampaigns and contests according to occasions, we would try to engage with our target audience \ron facebook , twitter, Gmail and send them some personalised messages about offer"
+  home_img:
+    path: /images/easy-7.jpeg
 menus:
   main:
     title: ''
