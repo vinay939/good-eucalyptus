@@ -14,6 +14,12 @@ sidebar:
     - is_primary: false
       title: Risk
       url: '#three'
+    - is_primary: true
+      title: Marketing
+      url: '#four'
+    - is_primary: true
+      title: Finance
+      url: '#five'
 sections:
   - actions:
       - is_primary: false
