@@ -29,7 +29,7 @@ sections:
     background_style: style1
     component: Intro
     section_id: intro
-    subtitle: ''
+    subtitle: '![](/images/easy-1.jpg)'
     title: EASY TRAVEL
     type: intro
   - background_style: style2
