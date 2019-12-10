@@ -29,7 +29,7 @@ sections:
   - background_style: style2
     component: Spotlights
     section_id: one
-    title: intro
+    title: finances
     type: spotlights
   - actions:
       - is_primary: false
