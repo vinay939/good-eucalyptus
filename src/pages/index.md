@@ -35,7 +35,7 @@ sections:
   - background_style: style2
     component: Spotlights
     section_id: one
-    title: Spotlights Section
+    title: intro
     type: spotlights
   - actions:
       - is_primary: false
@@ -76,12 +76,8 @@ sections:
           aliquam turpis mauris, sed ultricies erat dapibus.
         title: Aliquam urna dapibus
     section_id: two
-    subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
-    title: What we do
+    subtitle: "\"To inspire people to travel around the world in an affordable way beyond their expectations\".\rMy future goal for the company is helping maximum number of travellers to travel around the\rworld in an affordable way. Most of the travellers find difficulty in planning an ideal trip and\rthey end up in problems going through fraud websites and travel agents. Our research\rplatform would collect reviews and opinions from travellers and we would make different\rtour itineraries at different budgets at best prices, so this tour itinerary has all the travel\rtickets, accommodation, tickets for all the local monuments and breakfast. Travellers while\rplanning for a trip have to go through different websites for booking different tickets and\raccommodations and this thing would take a whole lot of time and would even end up in\rproblems due to fraud websites. So this venture would solve all the problems of travellers,\rthis would be a one-stop destination to get the best tour itinerary that every traveller would\rwant. In the coming future, our website will be having many new added features that will\rhelp travellers connect and also make the bookings easier than ever and we will improve user\rexperience and make sure people save money and time and have pleasant and unique travel\rexperience."
+    title: vision
     type: features
   - background_style: style1
     component: Contact
