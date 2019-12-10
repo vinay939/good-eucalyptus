@@ -1,5 +1,5 @@
 ---
-title: Marketing
+title: MARKETING
 content_img_path: /images/easy-7.jpeg
 home_spotlights:
   enabled: true
