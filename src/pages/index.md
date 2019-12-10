@@ -29,13 +29,11 @@ sections:
     background_style: style1
     component: Intro
     section_id: intro
-    subtitle: >-
-      "To inspire people to travel around the world in an affordable way beyond
-      their expectations".
+    subtitle: |-
 
 
-      ![](/images/easy-1.jpg)
-    title: EASY TRAVELS
+      ![](/images/easy-1.jpg "EASY TRAVEL")
+    title: EASY TRAVEL
     type: intro
   - background_style: style2
     component: Spotlights
