@@ -1,6 +1,6 @@
 ---
 title: RISK
-content_img_path: /images/easy-3.jpeg
+content_img_path: /images/pic06.jpg
 home_spotlights:
   enabled: true
   excerpt: |-
