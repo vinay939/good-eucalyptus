@@ -40,7 +40,7 @@ sections:
     component: Features
     features_list: []
     section_id: two
-    subtitle: '![](/images/screen-shot-2019-12-10-at-6.35.17-pm.png)'
+    subtitle: "![](/images/screen-shot-2019-12-10-at-6.35.17-pm.png)\n\nTo start the venture we need\r$585,380 as investment."
     title: finances
     type: features
   - background_style: style1
