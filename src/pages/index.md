@@ -6,13 +6,13 @@ sidebar:
       title: Home
       url: '#intro'
     - is_primary: false
-      title: Vision
+      title: ABOUT US
       url: '#one'
     - is_primary: false
-      title: Strategies
+      title: FINANCIAL
       url: '#two'
     - is_primary: false
-      title: Risk
+      title: CONTACT US
       url: '#three'
 sections:
   - actions:
