@@ -53,6 +53,8 @@ sections:
         url: '#'
       - text: 705-989-9006
         title: Phone
+      - title: Git-hub link
+        url: 'https://github.com/vinay939/good-eucalyptus.git'
     section_id: three
     social:
       social_icons:
